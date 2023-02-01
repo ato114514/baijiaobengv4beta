@@ -746,7 +746,7 @@ elseif a=="HaiHai_WoYouLaiLeAo"then
 _G.whitelisted=true
 end
 if _G.whitelisted==true then
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/IIIIllllIIlllllIIIIIlllIIIllllIIIllIIll/baijiaobengv3beta/main/jz1-obfuscated.lua'),true))()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/IIIIIIIIIIIIllllllllIIIIIIIllllllllIIlI/baijiaobengv4beta/main/jz1-obfuscated.lua'),true))()
     else
  
 game.Players.LocalPlayer:Kick(a.."你没有被列入白名单，请购买或者找群主反馈")
