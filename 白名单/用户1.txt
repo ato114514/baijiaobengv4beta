@@ -31,8 +31,6 @@ elseif a=="vpn_uou"then
  _G.whitelisted=true 
 elseif a=="mnsgdsb"then
  _G.whitelisted=true 
-elseif a=="Musjettrain"then
- _G.whitelisted=true 
 elseif a=="aliunb666666666"then
 _G.whitelisted=true
 elseif a=="XYJJZML"then
