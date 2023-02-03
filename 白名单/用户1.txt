@@ -2,7 +2,6 @@ repeat
     task.wait()
 until game.Players.LocalPlayer.Character~=nil;
 local a=tostring(game.Players.LocalPlayer.Character);
-print("hi")
  _G.whitelisted=false
 if a=="qmb_bmp"then
 _G.whitelisted=true
