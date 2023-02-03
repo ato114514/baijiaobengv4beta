@@ -115,6 +115,7 @@ _G.whitelisted=true
 elseif a=="liushunwen"then
 _G.whitelisted=true
 elseif a=="rtewrtew34"then
+print("我爱作者")
 _G.whitelisted=true
 elseif a=="shwgsjdh"then
 _G.whitelisted=true
