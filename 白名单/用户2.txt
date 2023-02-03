@@ -766,7 +766,7 @@ elseif a=="DingMingsi"then
 _G.whitelisted=true
 elseif a=="sjdgveksjsjd"then
 _G.whitelisted=true
-elseif a=="dhhdsdh"then
+elseif a=="yhhdsdh"then
 _G.whitelisted=true
 elseif a=="chinalikeboy"then
 _G.whitelisted=true
