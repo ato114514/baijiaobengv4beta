@@ -114,6 +114,8 @@ elseif a=="55575boybys"then
 _G.whitelisted=true
 elseif a=="liushunwen"then
 _G.whitelisted=true
+elseif a=="rtewrtew34"then
+_G.whitelisted=true
 elseif a=="shwgsjdh"then
 _G.whitelisted=true
 elseif a=="wananlhd"then
@@ -729,8 +731,6 @@ _G.whitelisted=true
 elseif a=="abdefghijklmn66"then
 _G.whitelisted=true
 elseif a=="liangtiande"then
-_G.whitelisted=true
-elseif a=="rtewrtew34"then
 _G.whitelisted=true
 elseif a=="CN_AREHG250"then
 _G.whitelisted=true
