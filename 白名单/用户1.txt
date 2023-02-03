@@ -541,7 +541,7 @@ _G.whitelisted=true
 _G.whitelisted=true
    elseif a=="zma521"then
 _G.whitelisted=true
-   elseif a=="dujianjjjjjj"then
+   elseif a=="Dujianjj"then
 _G.whitelisted=true
    elseif a=="ChinaNO_OB"then
 _G.whitelisted=true
