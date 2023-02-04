@@ -1241,7 +1241,7 @@ _G.whitelisted=true
 _G.whitelisted=true
   elseif a=="3649ppjdn"then
 _G.whitelisted=true
-  elseif a=="qwfgzhd"then
+  elseif a=="qwfgzhd12"then
 _G.whitelisted=true
   elseif a=="123aaqqaa"then
 _G.whitelisted=true
