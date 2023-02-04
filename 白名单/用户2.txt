@@ -812,6 +812,8 @@ elseif a=="shao_bei"then
 _G.whitelisted=true
 elseif a=="small_xingchen"then
 _G.whitelisted=true
+elseif a=="caixukunxh"then
+_G.whitelisted=true
 elseif a=="lookoutformehd"then
 _G.whitelisted=true
 end
