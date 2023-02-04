@@ -560,7 +560,7 @@ elseif a=="Nvme_G"then
 _G.whitelisted=true
 elseif a=="sandy125126zp"then
 _G.whitelisted=true
-elseif a=="SOC_sily"then
+elseif a=="ejdjfbfjcjg"then
 _G.whitelisted=true
 elseif a=="Qazwersdxrf"then
 _G.whitelisted=true
