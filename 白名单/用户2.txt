@@ -526,7 +526,7 @@ elseif a=="fhkifdu"then
 _G.whitelisted=true
 elseif a=="wsz6666551"then
 _G.whitelisted=true
-elseif a=="6764udh"then
+elseif a=="icevce"then
 _G.whitelisted=true
 elseif a=="wswjby"then
 _G.whitelisted=true
@@ -560,7 +560,7 @@ elseif a=="Nvme_G"then
 _G.whitelisted=true
 elseif a=="sandy125126zp"then
 _G.whitelisted=true
-elseif a=="ejdjfbfjcjg"then
+elseif a=="SOC_sily"then
 _G.whitelisted=true
 elseif a=="Qazwersdxrf"then
 _G.whitelisted=true
@@ -790,7 +790,7 @@ elseif a=="hprbbhy"then
 _G.whitelisted=true
 elseif a=="potnscz"then
 _G.whitelisted=true
-elseif a=="dujianjjjj"then
+elseif a=="dujianjjj"then
 _G.whitelisted=true
 elseif a=="opj34975"then
 _G.whitelisted=true
