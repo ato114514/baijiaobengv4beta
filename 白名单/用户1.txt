@@ -271,7 +271,7 @@ elseif a=="11742ww"then
 _G.whitelisted=true
 elseif a=="eyuioqi"then
 _G.whitelisted=true
-elseif a=="miyhj15"then
+elseif a=="top_cc611"then
 _G.whitelisted=true
 elseif a=="uruhndnb"then
 _G.whitelisted=true
@@ -1469,7 +1469,7 @@ _G.whitelisted=true
 _G.whitelisted=true
  elseif a=="123456YIF1"then
 _G.whitelisted=true
- elseif a=="rf1252"then
+ elseif a=="97a01"then
 _G.whitelisted=true
  elseif a=="lijiehao7"then
 _G.whitelisted=true
