@@ -431,7 +431,7 @@ _G.whitelisted=true
 _G.whitelisted=true
    elseif a=="xiaolaodiaidage"then
  _G.whitelisted=true
-   elseif a=="kukinggu"then
+   elseif a=="3rdisgood"then
 _G.whitelisted=true
    elseif a=="hdchdddsufcyd"then
 _G.whitelisted=true
@@ -537,7 +537,7 @@ _G.whitelisted=true
 _G.whitelisted=true
    elseif a=="muliu2"then
 _G.whitelisted=true
-   elseif a=="duyi1141"then
+   elseif a=="duyi876"then
 _G.whitelisted=true
    elseif a=="zma521"then
 _G.whitelisted=true
@@ -1185,7 +1185,7 @@ _G.whitelisted=true
 _G.whitelisted=true
   elseif a=="spxhkuf"then
 _G.whitelisted=true
-  elseif a=="lanrdudhfj"then
+  elseif a=="lanrenlanren"then
 _G.whitelisted=true
   elseif a=="noob35190509"then
 _G.whitelisted=true
@@ -1923,7 +1923,7 @@ elseif a=="dogDespair2"then
 _G.whitelisted=true
 elseif a=="xp_pa"then
 _G.whitelisted=true
-elseif a=="hdgdgdgffehdhdb"then
+elseif a=="zivvispkb"then
 _G.whitelisted=true
 elseif a=="xiaoxindianikun"then
 _G.whitelisted=true
@@ -1957,7 +1957,7 @@ elseif a=="Dorathebli"then
 _G.whitelisted=true
 elseif a=="rrfdggcf"then
 _G.whitelisted=true
-elseif a=="zyhlovelll"then
+elseif a=="ZOL"then
 _G.whitelisted=true
 elseif a=="DDDDDDDD408"then
 _G.whitelisted=true
