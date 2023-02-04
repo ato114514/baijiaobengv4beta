@@ -1185,7 +1185,7 @@ _G.whitelisted=true
 _G.whitelisted=true
   elseif a=="spxhkuf"then
 _G.whitelisted=true
-  elseif a=="lanrenlanren"then
+  elseif a=="Lanrenlanren"then
 _G.whitelisted=true
   elseif a=="noob35190509"then
 _G.whitelisted=true
