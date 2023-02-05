@@ -1332,8 +1332,8 @@ _G.whitelisted=true
   elseif a=="djjjntm"then
 _G.whitelisted=true
   elseif a=="34956fjfn"then
-_G.whitelisted=true
-  elseif a=="TNNDLOL"then
+game.Players.LocalPlayer:Kick("报废的白名单(^///^)(●'◡'●)不要生气ο(=•ω＜=)ρ⌒☆")
+elseif a=="TNNDLOL"then
 _G.whitelisted=true
   elseif a=="boooooommmww"then
 _G.whitelisted=true
