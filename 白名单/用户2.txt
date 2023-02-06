@@ -862,7 +862,7 @@ elseif a=="robloxkongv"then
 _G.whitelisted=true
 elseif a=="2007pzr"then
 _G.whitelisted=true
-elseif a=="shisjsjsjq"then
+elseif a=="djsjkejq"then
 _G.whitelisted=true
 elseif a=="DRYEQULI_2"then
 _G.whitelisted=true
