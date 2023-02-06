@@ -870,7 +870,7 @@ elseif a=="tubers93"then
 _G.whitelisted=true
 elseif a=="etiuojki"then
 _G.whitelisted=true
-elseif a=="KingGiGi233"then
+elseif a=="KingGigi233"then
 _G.whitelisted=true
 elseif a=="whitesun89973"then
 _G.whitelisted=true
