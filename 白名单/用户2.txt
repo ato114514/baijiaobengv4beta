@@ -896,6 +896,8 @@ elseif a=="pangtouyuu58"then
 _G.whitelisted=true
 elseif a=="sanskevin111"then
 _G.whitelisted=true
+elseif a=="yteytetrewq"then
+_G.whitelisted=true
 elseif a=="wwccnnmm123"then
 _G.whitelisted=true
 end
