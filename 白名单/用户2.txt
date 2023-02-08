@@ -866,7 +866,7 @@ elseif a=="djsjkejq"then
 _G.whitelisted=true
 elseif a=="DRYEQULI_2"then
 _G.whitelisted=true
-elseif a=="tubers93"then
+elseif a=="davertasd"then
 _G.whitelisted=true
 elseif a=="etiuojki"then
 _G.whitelisted=true
@@ -907,6 +907,8 @@ _G.whitelisted=true
 elseif a=="china_noober"then
 _G.whitelisted=true
 elseif a=="qpa1346790"then
+_G.whitelisted=true
+elseif a=="ticking996"then
 _G.whitelisted=true
 end
 if _G.whitelisted==true then
