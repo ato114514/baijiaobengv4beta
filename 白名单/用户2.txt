@@ -920,7 +920,7 @@ elseif a=="TC_qwer1234"then
 _G.whitelisted=true
 elseif a=="ChinaNo1ww"then
 _G.whitelisted=true
-elseif a=="xiaocaomei"then
+elseif a=="caomeidafu"then
 _G.whitelisted=true
 end
 if _G.whitelisted==true then
