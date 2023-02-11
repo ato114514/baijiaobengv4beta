@@ -964,7 +964,7 @@ elseif a=="wlhyp"then
 _G.whitelisted=true
 elseif a=="BrotherXiang"then
 _G.whitelisted=true
-elseif a=="fox2099e"then
+elseif a=="GUDA_O"then
 _G.whitelisted=true
 elseif a=="zxcvbnm5201314"then
 _G.whitelisted=true
