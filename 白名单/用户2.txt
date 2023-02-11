@@ -962,7 +962,7 @@ elseif a=="gaofangcsgo"then
 _G.whitelisted=true
 elseif a=="wlhyp"then
 _G.whitelisted=true
-elseif a=="BrotherXiang"then
+elseif a=="qwooejks"then
 _G.whitelisted=true
 elseif a=="GUDA_O"then
 _G.whitelisted=true
