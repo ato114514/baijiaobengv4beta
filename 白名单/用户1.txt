@@ -668,7 +668,7 @@ _G.whitelisted=true
    elseif a=="xiaozhoovo"then
 _G.whitelisted=true
 
-   elseif a=="xiafeng52"then
+   elseif a=="ikunlllljjj"then
 _G.whitelisted=true
 
    elseif a=="ghx20ghd"then
