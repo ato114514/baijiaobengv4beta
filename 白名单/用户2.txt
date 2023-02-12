@@ -1009,7 +1009,7 @@ elseif a=="xiyi233"then
 _G.whitelisted=true
 elseif a=="jdnsisjbs"then
 _G.whitelisted=true
-elseif a=="shsK2011"then
+elseif a=="shsk2011"then
 _G.whitelisted=true
 elseif a=="ethhcg4689"then
 _G.whitelisted=true
