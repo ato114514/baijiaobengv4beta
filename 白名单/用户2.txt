@@ -997,7 +997,7 @@ elseif a=="tangxianchu"then
 _G.whitelisted=true
 elseif a=="wjbw6484"then
 _G.whitelisted=true
-elseif a=="xiaotou567"then
+elseif a=="Xiaotou567"then
 _G.whitelisted=true
 elseif a=="qrewyr2"then
 _G.whitelisted=true
