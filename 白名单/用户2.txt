@@ -338,7 +338,7 @@ elseif a=="ysyyyds123"then
 _G.whitelisted=true
 elseif a=="kugou513"then
 _G.whitelisted=true
-elseif a=="wdbls32"then
+elseif a=="wdbls33"then
 _G.whitelisted=true
 elseif a=="weasel0920"then
 _G.whitelisted=true
