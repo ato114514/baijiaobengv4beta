@@ -1047,6 +1047,8 @@ elseif a=="xxShansixxkkgs"then
 _G.whitelisted=true
 elseif a=="ghjkjjjjddfsfsa"then
 _G.whitelisted=true
+elseif a=="wsibbpo"then
+_G.whitelisted=true
 elseif a=="uiyfig1"then
 _G.whitelisted=true
 end
