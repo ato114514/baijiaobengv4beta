@@ -1087,7 +1087,11 @@ elseif a=="zxdtdt3"then
 _G.whitelisted=true
 elseif a=="gaofangcf"then
 _G.whitelisted=true
+elseif a=="CTC_noynoybtd"then
+_G.whitelisted=true
 elseif a=="ttss135"then
+_G.whitelisted=true
+elseif a=="magegelaile"then
 _G.whitelisted=true
 end
 if _G.whitelisted==true then
