@@ -1091,7 +1091,7 @@ elseif a=="CTC_noynoybtd"then
 _G.whitelisted=true
 elseif a=="ttss135"then
 _G.whitelisted=true
-elseif a=="13126866950"then
+elseif a=="aqhdjdjdjdjfj"then
 _G.whitelisted=true
 elseif a=="zrugwja"then
 _G.whitelisted=true
