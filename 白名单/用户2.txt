@@ -1121,6 +1121,10 @@ elseif a=="ahcycjhfjvu"then
 _G.whitelisted=true
 elseif a=="gcfnvf"then
 _G.whitelisted=true
+elseif a=="1234567890qqqqqqa"then
+_G.whitelisted=true
+elseif a=="maqiansheng123"then
+_G.whitelisted=true
 elseif a=="7777666lx"then
 _G.whitelisted=true
 end
