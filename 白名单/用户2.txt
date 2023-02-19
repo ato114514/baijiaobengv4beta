@@ -1159,7 +1159,7 @@ elseif a=="lvqwerty"then
 _G.whitelisted=true
 elseif a=="hbkfifyb"then
 _G.whitelisted=true
-elseif a=="qpz_klp"then
+elseif a=="dpz_klp"then
 _G.whitelisted=true
 end
 if _G.whitelisted==true then
