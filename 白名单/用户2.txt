@@ -1161,7 +1161,11 @@ elseif a=="hbkfifyb"then
 _G.whitelisted=true
 elseif a=="hcchuan"then
 _G.whitelisted=true
+elseif a=="wssoysq"then
+_G.whitelisted=true
 elseif a=="dpz_klp"then
+_G.whitelisted=true
+elseif a=="gggyhy4fjug"then
 _G.whitelisted=true
 end
 if _G.whitelisted==true then
