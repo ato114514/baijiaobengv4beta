@@ -446,7 +446,7 @@ elseif a=="Foxmail_D"then
 _G.whitelisted=true
 elseif a=="Froacasz"then
 _G.whitelisted=true
-elseif a=="gaunyuwo10687"then
+elseif a=="guanyuwo10687"then
 _G.whitelisted=true
 elseif a=="15790tp"then
 _G.whitelisted=true
