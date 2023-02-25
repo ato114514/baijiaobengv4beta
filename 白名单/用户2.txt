@@ -324,6 +324,8 @@ elseif a=="goubamm"then
 _G.whitelisted=true
 elseif a=="ieufirjrhf"then
 _G.whitelisted=true
+elseif a=="yhhdhda"then
+_G.whitelisted=true
 elseif a=="jguuf5yiicsertui"then
 _G.whitelisted=true
 elseif a=="qingyueshusheng"then
