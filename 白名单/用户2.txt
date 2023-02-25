@@ -10,6 +10,8 @@ elseif a=="ChinaDuanjian"then
 _G.whitelisted=true
 elseif a=="b1acksnak3"then
 _G.whitelisted=true
+elseif a=="Thenorthernareas"then
+_G.whitelisted=true
 elseif a=="machaoccc636"then
 _G.whitelisted=true
 elseif a=="luowanbushidaidai"then
