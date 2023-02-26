@@ -8,6 +8,8 @@ elseif a=="jgkgbkd"then
 _G.whitelisted=true
 elseif a=="Chinaxuaoxiao"then
 _G.whitelisted=true
+elseif a=="mingstr2546"then
+_G.whitelisted=true
 elseif a=="asdfghjklplmqazqwe"then
 _G.whitelisted=true
 elseif a=="qazchtdv"then
