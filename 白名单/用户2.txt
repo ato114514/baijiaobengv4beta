@@ -4,6 +4,12 @@ until game.Players.LocalPlayer.Character~=nil;
 local a=tostring(game.Players.LocalPlayer.Character);
 if a=="hdjowhxi"then
 _G.whitelisted=true
+elseif a=="jgkgbkd"then
+_G.whitelisted=true
+elseif a=="Chinaxuaoxiao"then
+_G.whitelisted=true
+elseif a=="asdfghjklplmqazqwe"then
+_G.whitelisted=true
 elseif a=="qazchtdv"then
 _G.whitelisted=true
 elseif a=="yiyangsbb"then
