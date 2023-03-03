@@ -6,7 +6,7 @@ if a=="hdjowhxi"then
 _G.whitelisted=true
 elseif a=="jgkgbkd"then
 _G.whitelisted=true
-elseif a=="N1_YYDS"then
+elseif a=="mcdnpc"then
 _G.whitelisted=true
 elseif a=="N1_YYDS"then
 _G.whitelisted=true
