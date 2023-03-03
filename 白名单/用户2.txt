@@ -6,9 +6,17 @@ if a=="hdjowhxi"then
 _G.whitelisted=true
 elseif a=="jgkgbkd"then
 _G.whitelisted=true
+elseif a=="N1_YYDS"then
+_G.whitelisted=true
+elseif a=="N1_YYDS"then
+_G.whitelisted=true
+elseif a=="ligmil1"then
+_G.whitelisted=true
+elseif a=="XIAOJINGYAGG"then
+_G.whitelisted=true
 elseif a=="bayuenbjgh99"then
 _G.whitelisted=true
-elseif a=="kitte668"then
+elseif a=="Kitte668"then
 _G.whitelisted=true
 elseif a=="Chinaxuaoxiao"then
 _G.whitelisted=true
