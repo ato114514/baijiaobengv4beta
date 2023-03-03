@@ -6,6 +6,10 @@ if a=="hdjowhxi"then
 _G.whitelisted=true
 elseif a=="jgkgbkd"then
 _G.whitelisted=true
+elseif a=="yjy880621"then
+_G.whitelisted=true
+elseif a=="zy031107"then
+_G.whitelisted=true
 elseif a=="mdfamugong"then
 _G.whitelisted=true
 elseif a=="mcdnpc"then
