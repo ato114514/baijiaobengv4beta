@@ -10,6 +10,8 @@ elseif a=="mdfamugong"then
 _G.whitelisted=true
 elseif a=="mcdnpc"then
 _G.whitelisted=true
+elseif a=="zhhzhh520"then
+_G.whitelisted=true
 elseif a=="ud_isbog"then
 _G.whitelisted=true
 elseif a=="N1_YYDS"then
