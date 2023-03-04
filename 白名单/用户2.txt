@@ -8,6 +8,8 @@ elseif a=="xdtxjh"then
 _G.whitelisted=true
 elseif a=="19870715a"then
 _G.whitelisted=true
+elseif a=="AMpmhfj"then
+_G.whitelisted=true
 elseif a=="cjfygfxhhxty"then
 _G.whitelisted=true
 elseif a=="jgkgbkd"then
